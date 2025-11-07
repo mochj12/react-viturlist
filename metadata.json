@@ -1,0 +1,5 @@
+{
+  "name": "High-Performance Chat List",
+  "description": "A high-performance chat interface for displaying a large number of customer service messages, built with React, Ant Design, and Tailwind CSS, utilizing virtual scrolling for optimal performance.",
+  "requestFramePermissions": []
+}
